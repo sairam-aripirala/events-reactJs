@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.active-card-details-container {
+  width: 40%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-height: 100vh;
+}
+.initial-text {
+  color: #3a4b63;
+  font-size: 35px;
+  padding: 25px;
+  width: 40vw;
+  font-weight: 600;
+}
+.registered-tick-image {
+  height: 105px;
+}
+.registered-text {
+  color: #3a4b63;
+  font-size: 35px;
+  padding: 25px;
+  text-align: center;
+  font-weight: 600;
+}
+.yet-to-register-image {
+  height: 280px;
+}
+.yet-to-register-para {
+  font-size: 25px;
+  color: #64748b;
+  text-align: center;
+  padding: 25px;
+}
+.yet-to-register-btn {
+  background-color: #0967d2;
+  padding: 15px 60px;
+  color: white;
+  font-size: 25px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin: 15px;
+}
+.closed-image {
+  height: 250px;
+}
+.closed-heading {
+  font-size: 30px;
+  font-weight: 600;
+  color: #3a4b63;
+  text-align: center;
+  padding: 25px;
+}
+.closed-para {
+  font-size: 20px;
+
+  color: #64748b;
+  text-align: center;
+  padding: 5px 75px;
+}
